@@ -10,7 +10,7 @@
          <br>
          <br>
          <b>
-         <a href="https://www.dropbox.com/s/tvo52d4prbhwmla/Bedriftens%20okonomi%20-%20Kjell%20Gunnar%20Hoff.pdf?dl=0 ">[Download]</a>
+         <a href="https://www.dropbox.com/s/tvo52d4prbhwmla/Bedriftens%20okonomi%20-%20Kjell%20Gunnar%20Hoff.pdf?dl=1">[Download]</a>
          <b>
       </td>
    </tr>
@@ -23,7 +23,7 @@
          <br>
          <br>
          <b>
-         <a href="https://www.dropbox.com/s/rzc3a2c2xvwu31c/Arbeidsbok%20til%20Bedriftens%20okonomi%20-%20Kjell%20Gunnar%20Hoff.pdf?dl=0">[Download]</a>
+         <a href="https://www.dropbox.com/s/rzc3a2c2xvwu31c/Arbeidsbok%20til%20Bedriftens%20okonomi%20-%20Kjell%20Gunnar%20Hoff.pdf?dl=1">[Download]</a>
          <b>
       </td>
    </tr>
@@ -36,7 +36,7 @@
          <br>
          <br>
          <b>
-         <a href="https://www.dropbox.com/s/s68rs34bmdtbdg2/David_Barnes_Michael_Kolling_-_Objects_First_with_Java__A_Practical_Introduction_Using_BlueJ-Pearson_2016.pdf?dl=0">[Download]</a>
+         <a href="https://www.dropbox.com/s/s68rs34bmdtbdg2/David_Barnes_Michael_Kolling_-_Objects_First_with_Java__A_Practical_Introduction_Using_BlueJ-Pearson_2016.pdf?dl=1">[Download]</a>
          <b>
       </td>
    </tr>
