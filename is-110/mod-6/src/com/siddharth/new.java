@@ -31,7 +31,7 @@ public class Demo {
      * @returns HashMap containing animal names (key) and the names of their babies (value)
      */
     public static HashMap getAnimalBabyNames() {
-        HashMap<String, String> AnimalBabyNames = new HashMap<String, String>();
+        HashMap < String, String > AnimalBabyNames = new HashMap < String, String > ();
 
         AnimalBabyNames.put("Deer", "Fawn");
         AnimalBabyNames.put("Cheetah", "Cub");
@@ -50,7 +50,7 @@ public class Demo {
      * @param fruitBasket     HashSet which contains the fruits
      * @returns               The number fruits in the fruit basket
      */
-    private static int getSizeOfFruitBasket(HashSet<String> fruitBasket) {
+    private static int getSizeOfFruitBasket(HashSet < String > fruitBasket) {
         return fruitBasket.size();
     }
 
@@ -58,14 +58,14 @@ public class Demo {
      * This method deomstrate a few of the methods from the HashMap class
      */
     public static void demonstrateHashSetMethods() {
-        HashSet<String> fruitBasket = new HashSet<String>();
+        HashSet < String > fruitBasket = new HashSet < String > ();
         fruitBasket.add("apple");
         fruitBasket.add("banana");
         fruitBasket.add("coconut");
         fruitBasket.add("dates");
         fruitBasket.add("eggplant");
 
-        System.out.println("Our fruit basket with size " + getSizeOfFruitBasket(fruitBasket) + " fruits: "+ fruitBasket);
+        System.out.println("Our fruit basket with size " + getSizeOfFruitBasket(fruitBasket) + " fruits: " + fruitBasket);
 
         fruitBasket.add("orange");
         System.out.println("Added 'orange' to fruit basket");
@@ -76,6 +76,6 @@ public class Demo {
         fruitBasket.remove("apple");
         System.out.println("Removed 'apple' from fruit basket");
 
-        System.out.println("Our final fruit basket with size " + getSizeOfFruitBasket(fruitBasket) + " fruits: "+ fruitBasket);
+        System.out.println("Our final fruit basket with size " + getSizeOfFruitBasket(fruitBasket) + " fruits: " + fruitBasket);
     }
 }
