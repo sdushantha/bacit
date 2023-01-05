@@ -5,6 +5,20 @@
 <table>
    <tr>
       <td align="center">
+         <img src="https://user-images.githubusercontent.com/27065646/210826868-1392e8ca-1619-46cf-aa57-52f1f17b4811.png">
+      </td>
+      <td align="center">
+         Universell utforming av IKT-systemer - brukergrensesnitt for alle <b>2.utgave</b> <br> Frode Eika Sandnes 
+         <br>
+         <img src="https://user-images.githubusercontent.com/27065646/210838056-df1aaa30-7352-44a8-a325-b42268eff8a0.png">
+         <br>
+         <b>
+         <a href="https://www.dropbox.com/s/5styd1ai5qm9cui/Universell%20utforming%20av%20IKT-systemer%20-%20Sandnes%2C%20Frode%20Eika.pdf?dl=1">[Download]</a>
+         <b>
+      </td>
+   </tr> 
+   <tr>
+      <td align="center">
          <img src="https://user-images.githubusercontent.com/27065646/210768221-19b7de19-e6ef-4f49-ae7a-45e8fee62796.png">
       </td>
       <td align="center">
