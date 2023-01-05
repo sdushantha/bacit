@@ -1,6 +1,21 @@
 <h1 align=center> 📕BACIT Books</h1>
 
+<b><p align=center>✨ Create an issue to request a book✨</p></b>
+
 <table>
+   <tr>
+      <td align="center">
+         <img src="https://user-images.githubusercontent.com/27065646/210768221-19b7de19-e6ef-4f49-ae7a-45e8fee62796.png">
+      </td>
+      <td align="center">
+          Introduksjon til tjenestedesign <br> Stephanie Helland, Theodor Henriksen, Adeline Hvidsten, Ranvir S. Rai
+         <br>
+         <br>
+         <b>
+         <a href="https://www.dropbox.com/s/5cg1zivlncn1bk9/Introduksjon%20til%20tjenestedesign%20-%20Hvidsten%2C%20Adeline%20Holmedahl.pdf?dl=1">[Download]</a>
+         <b>
+      </td>
+   </tr>
    <tr>
       <td align="center">
          <img src="https://user-images.githubusercontent.com/27065646/210767658-f06d7bf2-9f24-4ad0-ac7e-9016c4f071ee.png">
