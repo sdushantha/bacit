@@ -3,6 +3,19 @@
 <table>
    <tr>
       <td align="center">
+         <img src="https://user-images.githubusercontent.com/27065646/210767658-f06d7bf2-9f24-4ad0-ac7e-9016c4f071ee.png">
+      </td>
+      <td align="center">
+          Principles of Information Security <br>  Mattord Herbert & Whitman Michael 
+         <br>
+         <br>
+         <b>
+         <a href="https://www.dropbox.com/s/odyuc9kp7gbipd6/Principles%20of%20Information%20Security%20-%20Michael%20E.%20Whitman.pdf?dl=1">[Download]</a>
+         <b>
+      </td>
+   </tr>
+   <tr>
+      <td align="center">
          <img src="https://user-images.githubusercontent.com/27065646/155727720-ad8eb755-b388-449f-b7f6-e7612e66f243.jpg">
       </td>
       <td align="center">
