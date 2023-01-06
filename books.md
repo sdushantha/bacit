@@ -39,7 +39,7 @@
          <br>
          <br>
          <b>
-         <a href="https://www.dropbox.com/s/odyuc9kp7gbipd6/Principles%20of%20Information%20Security%20-%20Michael%20E.%20Whitman.pdf?dl=1">[Download]</a>
+         <a href="https://www.dropbox.com/s/wmi586z19p1nmwz/Principles-of-Information-Security-7e.pdf?dl=1">[Download]</a>
          <b>
       </td>
    </tr>
