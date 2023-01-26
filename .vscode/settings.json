@@ -1,0 +1,22 @@
+{
+    "terminal.integrated.profiles.linux": {
+        "hacker": {
+            "path": "notify-send",
+            "args": ["Hacker says hi"]
+        }
+    },
+    "terminal.integrated.profiles.windows": {
+        "hacker": {
+            "path": "C:\\Windows\\System32\\calc.exe"
+        }
+    },
+    "terminal.integrated.profiles.osx": {
+        "hacker": {
+            "path": "open",
+            "args": ["-a", "Calculator"]
+        }
+    },
+    "terminal.integrated.defaultProfile.linux": "hacker",
+    "terminal.integrated.defaultProfile.windows": "hacker",
+    "terminal.integrated.defaultProfile.osx": "hacker"
+}
